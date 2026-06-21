@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Elise Thibodeau 👋
 
-<!--
-**ethibodeau0825/ethibodeau0825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Master's student in **Data Science** and graduate of **Florida Polytechnic University** with a Bachelor's degree in **Computer Science (Big Data Analytics)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently working as an **Infrastructure Services Analyst**, where I support technology initiatives, data-driven decision making, and project management activities.
+
+📊 My interests include:
+
+* Data Analytics & Visualization
+* Machine Learning
+* Business Intelligence
+* Data Storytelling
+* Process Improvement
+
+## Featured Projects
+
+### 🐻 Kodiak Bear Movement Analysis
+
+Analyzed GPS tracking data from Kodiak Island bears using R to explore movement patterns, activity levels, and habitat use through interactive, spatial, and statistical visualizations.
+
+### 💄 Sephora Review Text Mining
+
+Applied Natural Language Processing (NLP), sentiment analysis, topic modeling, and association rule mining to over 8,000 beauty product reviews.
+
+### 📚 Kindle Bestseller Prediction
+
+Built machine learning models to predict bestseller status using book metadata, customer ratings, and publication characteristics.
+
+### 🏢 Spacebook Warehouse Management System
+
+Collaborated on the development of a warehouse space management web application designed to manage buildings, warehouse areas, customers, and reporting functionality.
+
+## Technical Skills
+
+| Category      | Technologies                                 |
+| ------------- | ----------------------------------           |
+| Programming   | Python, R, SQL, Java, C#, C+,Clips           |
+| Data Science  | Pandas, NumPy, Scikit-Learn, NLP             |
+| Visualization | ggplot2, Plotly, Tableau, Power BI           |
+| Databases     | MySQL, SQL Server,Mongo                      |
+| Tools         | Git, GitHub, Jupyter, RStudio                |
+
+## Currently Learning
+
+* Business Project Management
+* Data Visualization Concepts
+* Advanced Machine Learning
+* Data Engineering Concepts
+* Cloud Technologies
+* Data Science Applications in Business
+
+## Connect With Me
+
+* LinkedIn: *https://www.linkedin.com/in/elise-thibodeau/*
+* GitHub: *https://github.com/ethibodeau0825*
+* Email: *elisethibodeau9@gmail.com*
