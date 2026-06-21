@@ -1,7 +1,7 @@
 # Hi, I'm Elise Thibodeau 👋
 
 <p align="center">
-  <img src="Banner.png" alt="Elise Thibodeau Banner" width="100%">
+  <img src="./Banner.png" alt="Elise Thibodeau Banner" width="100%">
 </p>
 
 ## About Me
