@@ -1,5 +1,9 @@
 # Hi, I'm Elise Thibodeau 👋
 
+<p align="center">
+  <img src="banner.png" alt="Elise Thibodeau Banner" width="100%">
+</p>
+
 ## About Me
 
 🎓 Master's student in **Data Science** and graduate of **Florida Polytechnic University** with a Bachelor's degree in **Computer Science (Big Data Analytics)**.
