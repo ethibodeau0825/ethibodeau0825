@@ -20,30 +20,32 @@
 
 ## Featured Projects
 
-### 🐻 Kodiak Bear Movement Analysis
+### 🏢 Spacebook Warehouse Management System
 
-Analyzed GPS tracking data from Kodiak Island bears using R to explore movement patterns, activity levels, and habitat use through interactive, spatial, and statistical visualizations.
+Collaborated on the development of a warehouse space management web application designed to manage buildings, warehouse areas, customers, and reporting functionality.
 
-### 💄 Sephora Review Text Mining
+### 💳 Credit Card Approval Analysis
 
-Applied Natural Language Processing (NLP), sentiment analysis, topic modeling, and association rule mining to over 8,000 beauty product reviews.
+Applied both Linear Probability Models (LPM) and Logistic Regression to estimate how income influences approval likelihood while controlling for credit history, financial stability, and demographic factors.
 
 ### 📚 Kindle Bestseller Prediction
 
 Built machine learning models to predict bestseller status using book metadata, customer ratings, and publication characteristics.
 
-### 🏢 Spacebook Warehouse Management System
 
-Collaborated on the development of a warehouse space management web application designed to manage buildings, warehouse areas, customers, and reporting functionality.
+### 💄 Sephora Review Text Mining
+
+Applied Natural Language Processing (NLP), sentiment analysis, topic modeling, and association rule mining to over 8,000 beauty product reviews.
+
 
 ## Technical Skills
 
 | Category      | Technologies                                 |
 | ------------- | ----------------------------------           |
-| Programming   | Python, R, SQL, Java, C#, C+,Clips           |
+| Programming   | Python, R, SQL, Java, C#, C+, Clips          |
 | Data Science  | Pandas, NumPy, Scikit-Learn, NLP             |
 | Visualization | ggplot2, Plotly, Tableau, Power BI           |
-| Databases     | MySQL, SQL Server,Mongo                      |
+| Databases     | MySQL, SQL Server, Mongo                     |
 | Tools         | Git, GitHub, Jupyter, RStudio                |
 
 ## Currently Learning
